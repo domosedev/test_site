@@ -1,0 +1,8 @@
+body{
+	background-image: url("../img/bg_dotted.png");
+}
+#work{
+	background-color: white;
+	border: solid 2px;
+	border-color: black;
+}
