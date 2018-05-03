@@ -1,8 +1,19 @@
 body{
 	background-image: url("../img/bg_dotted.png");
 }
-#work{
-	background-color: white;
-	border: solid 2px;
-	border-color: black;
+.test1{
+	background-color: green;
+	border: solid 1px;
+	border-color: grey;
+}
+
+.test2{
+	background-color: yellow;
+	border: solid 1px;
+	border-color: grey;
+}
+
+.img-hg-200{
+	margin-top: 10px;
+	height: 200px;
 }
